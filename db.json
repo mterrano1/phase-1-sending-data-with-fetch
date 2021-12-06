@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,25 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Chloe",
+      "dogBreed": "mut",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +38,71 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "myname",
+      "email": "myemail",
+      "id": 1
+    },
+    {
+      "name": "myname",
+      "email": "myemail",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "testing",
+      "email": "atest",
+      "id": 4
+    },
+    {
+      "name": "this is a test",
+      "email": "another test",
+      "id": 5
+    },
+    {
+      "name": "testing again",
+      "email": "once again, another test",
+      "id": 6
+    },
+    {
+      "name": "refresh",
+      "email": "forgot to refresh",
+      "id": 7
+    },
+    {
+      "name": "hi",
+      "email": "hello",
+      "id": 8
+    },
+    {
+      "name": "asl;djfasd",
+      "email": "l;asjdf;las",
+      "id": 9
+    },
+    {
+      "name": "sljfa",
+      "email": "hello",
+      "id": 10
+    },
+    {
+      "name": "ladsjf;oaldjf",
+      "email": "al;kjh;dkasjf;lads",
+      "id": 11
+    },
+    {
+      "name": "Karson",
+      "email": "Mike",
+      "id": 12
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
